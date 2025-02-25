@@ -7,4 +7,4 @@ first_name=input("Enter your first name: ").capitalize()
 second_name=input("Enter your second name: ").capitalize()
 
 
-print(f"Hello, {first_name} {second_name}! Welcome to Python program.")
+print(f"\nHello, {first_name} {second_name}! Welcome to Python program.")

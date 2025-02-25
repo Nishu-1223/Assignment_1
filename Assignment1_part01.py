@@ -8,7 +8,7 @@ Add= first_num+second_num
 Substration= first_num-second_num
 Multiplication= first_num*second_num
 Division= first_num/second_num
-
+print()
 print(f"Addition: {Add}")
 print(f"Substration: {Substration}")
 print(f"Multiplication: {Multiplication}")
