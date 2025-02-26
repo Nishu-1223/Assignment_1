@@ -1,4 +1,4 @@
-# Python_Assignments
+# Assignment_1
 Assignment 1: Basic Python Concepts
 Task 1: Perform Basic Mathematical Operations
 
